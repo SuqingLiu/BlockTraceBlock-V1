@@ -1,6 +1,14 @@
 # BlockTraceBlock-V1
 Created a game environment in Unity and trained with ML-Agents | Proximal Policy Optimization (PPO)
 
+# Link to My Video
+
+Instagram: https://www.instagram.com/reel/C3ypekuNhoJ/?igsh=MXAwZTB1NDUycW1qbg==
+
+Tiktok: https://vm.tiktok.com/ZMMRHXHTT/
+
+小红书: http://xhslink.com/G4JKeC
+
 As I mentioned last time, I wanted to create my own simulated environment to train reinforcement learning agents. This is due to the limitations in terms of the information I can provide to the model in a captured environment. In this project, I learned the basics of Unity and closely followed the instructions from a great YouTube channel, The Ash Bot. https://youtu.be/RANRz9oyzko?si=TqWU1ERxnCjthEi_ Essentially, this is a reimagining of his project but with added reinforcement challenges, such as finding the fastest way for the agent to reach the target.
 
 In this project, the environment is constructed in 2D and features an agent and a target. The agent's goal is to reach the target. Once the agent reaches the target, the game ends, and the agent wins. However, if the agent hits the wall on the edge of the map, the game ends, and the agent loses.
